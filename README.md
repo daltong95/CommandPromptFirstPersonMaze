@@ -4,3 +4,5 @@ Javidx9's First Person Maze in command prompt. NOT MY OWN CODE. Original was cre
 Instructions to download and use this code
   1. Have Visual Studios downloaded.
   2. Download this project as a zip file.
+  3. Extract the zip file.
+  4. Open the 'ConsoleFPS.sln' file.
