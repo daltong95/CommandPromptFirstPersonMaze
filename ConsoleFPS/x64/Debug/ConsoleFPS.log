@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\gamer\OneDrive\Documents\FunCodeProjects\ConsoleFPS\ConsoleFPS\Source.cpp(20,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\gamer\OneDrive\Documents\FunCodeProjects\ConsoleFPS\ConsoleFPS\Source.cpp(145,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\gamer\OneDrive\Documents\FunCodeProjects\ConsoleFPS\ConsoleFPS\Source.cpp(155,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  ConsoleFPS.vcxproj -> C:\Users\gamer\OneDrive\Documents\FunCodeProjects\ConsoleFPS\x64\Debug\ConsoleFPS.exe
